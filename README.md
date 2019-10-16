@@ -7,9 +7,9 @@ All the work is shared on the platform through detailed Kaggle scripts with the 
 <img src="https://github.com/Manikanta-Munnangi/Kaggle-Competitions/blob/master/Images-src/Kaggle%20intro.png">
 
 # Competitions.
-|| Competitions  | Description |MyScore |
-|--| ------------- | --|------------- |
-|1| Titanic: Machine Learning from Disaster|  In this challenge, we have to build a predictive model that gonna tell us "People who have survived" from titanic wreckage using passenger details (ie name, age, gender, socio-economic class, etc)| 0.80382  |
+|| Competitions  | Description |MyScore |Link to Competiton|
+|--| ------------- | --|------------- |--|
+|1| Titanic: Machine Learning from Disaster|  In this challenge, we have to build a predictive model that gonna tell us "People who have survived" from titanic wreckage using passenger details (ie name, age, gender, socio-economic class, etc)| 0.80382  |https://www.kaggle.com/c/titanic|
 
 # Ranking in Kaggle.
 ### 1.Titanic 
