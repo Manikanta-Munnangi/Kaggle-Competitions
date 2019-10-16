@@ -1,6 +1,8 @@
 # Kaggle Competitions.
+**About Kaggle:**
 
-|| Competitions  | Score |
+
+|| Competitions  | MyScore |
 |--| ------------- | ------------- |
 |1| Titanic: Machine Learning from Disaster  | 0.80382  |
 
