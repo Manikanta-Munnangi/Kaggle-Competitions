@@ -6,4 +6,4 @@
 | ------------- | ------------- |
 | Titanic: Machine Learning from Disaster  | 0.80382  |
 
-![Titanic Score]("/Images/Titanic_score.png)
+![](https://github.com/Manikanta-Munnangi/Kaggle-Competitions/blob/master/Images/Titanic_score.png)
