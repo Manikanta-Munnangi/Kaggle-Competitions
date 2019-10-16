@@ -1,9 +1,11 @@
 # Kaggle Competitions.
+**About Kaggle:**
 
-![kaggle logo]("Images/kaggle.png")
 
-| Competitions  | Score |
-| ------------- | ------------- |
-| - Titanic: Machine Learning from Disaster  | 0.80382  |
+|| Competitions  | MyScore |
+|--| ------------- | ------------- |
+|1| Titanic: Machine Learning from Disaster  | 0.80382  |
 
-![Titanic Score]("Images"/Titanic_score.png)
+# Ranking in Kaggle.
+### 1.Titanic 
+![](https://github.com/Manikanta-Munnangi/Kaggle-Competitions/blob/master/Images/Titanic_score.png)
