@@ -10,7 +10,8 @@
 # Competitions.
 || Competitions  | Description |MyScore |Link to Competiton|
 |--| ------------- | --|------------- |--|
-|1| Titanic: Machine Learning from Disaster|  In this challenge, we have to build a predictive model that gonna tell us "People who have survived" from titanic wreckage using passenger details (ie name, age, gender, socio-economic class, etc)| 0.80382  |https://www.kaggle.com/c/titanic|
+|1| <p align="Justify">Titanic: Machine Learning from Disaster</p>|  <p align="Justify">In this challenge, we have to build a predictive model that gonna tell us "People who have survived" from titanic wreckage using passenger details (ie name, age, gender, socio-economic class, etc)</p>| 0.80382  |https://www.kaggle.com/c/titanic|
+
 
 # Ranking in Kaggle.
 ### 1.Titanic 
