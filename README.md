@@ -1,10 +1,11 @@
 # Kaggle Competitions.
 **About Kaggle:**
 
-It’s a crowd-sourced platform to attract, nurture, train and challenge data scientists from all around the world to solve data science, machine learning and predictive analytics problems. The participants who compete for projects submit their models with a variety of techniques.
-All the work is shared on the platform through detailed Kaggle scripts with the intention of inspiring new ideas to achieve better benchmarks. In most Kaggle competitions, submissions are scored immediately and clearly summarised publicly on the live leader-board.
-
-<img src="https://github.com/Manikanta-Munnangi/Kaggle-Competitions/blob/master/Images-src/Kaggle%20intro.png">
+<p align="justify">
+  It’s a Data Science platform where you can get lot of stuff to work with datasets, Many Data Scientists, Machine Learning enginners, and People from data science background and even beginners who want to start their career into data science all over the world participate in hundreds of competitions to improve their skills by writing code and submitting kernals where beginner can refer and learn through and it has large community. You can make a good profile to showcase your skills.</p>
+<p align="center">
+  <img src="https://github.com/Manikanta-Munnangi/Kaggle-Competitions/blob/master/Images-src/Kaggle%20intro.png">
+</p>
 
 # Competitions.
 || Competitions  | Description |MyScore |Link to Competiton|
