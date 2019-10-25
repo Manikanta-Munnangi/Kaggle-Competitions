@@ -17,5 +17,6 @@
 # Ranking in Kaggle.
 ### 1.Titanic.
 <img src="https://github.com/Manikanta-Munnangi/Kaggle-Competitions/blob/master/Images-src/Titanic_score.png" width="1350" height="180">
+
 ### 2.House Price Prediction.
-<img src="https://github.com/Manikanta-Munnangi/Kaggle-Competitions/blob/master/Images-src/Titanic_score.png" width="1350" height="180">
+<img src="https://github.com/Manikanta-Munnangi/Kaggle-Competitions/blob/master/Images-src/HousePriceScore.png" width="1350" height="160">
